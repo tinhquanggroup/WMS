@@ -1,0 +1,11 @@
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\bin\Debug\net8.0\WMS.Core.Domain.deps.json
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\bin\Debug\net8.0\WMS.Core.Domain.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\bin\Debug\net8.0\WMS.Core.Domain.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.AssemblyInfoInputs.cache
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.AssemblyInfo.cs
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.csproj.CoreCompileInputs.cache
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\refint\WMS.Core.Domain.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\WMS.Core.Domain.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Domain\obj\Debug\net8.0\ref\WMS.Core.Domain.dll

@@ -1,0 +1,17 @@
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Application.deps.json
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Application.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Application.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Domain.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Infrastructure.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Domain.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\bin\Debug\net8.0\WMS.Core.Infrastructure.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.csproj.AssemblyReference.cache
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.AssemblyInfoInputs.cache
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.AssemblyInfo.cs
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.csproj.CoreCompileInputs.cache
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.4BC537F7.Up2Date
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\refint\WMS.Core.Application.dll
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\WMS.Core.Application.pdb
+D:\2024\Working\WMS\src\Core\WMS.Core.Application\obj\Debug\net8.0\ref\WMS.Core.Application.dll

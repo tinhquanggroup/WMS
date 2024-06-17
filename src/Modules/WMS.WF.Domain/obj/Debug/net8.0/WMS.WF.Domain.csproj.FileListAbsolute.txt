@@ -1,0 +1,11 @@
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\bin\Debug\net8.0\WMS.WF.Domain.deps.json
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\bin\Debug\net8.0\WMS.WF.Domain.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\bin\Debug\net8.0\WMS.WF.Domain.pdb
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.AssemblyInfoInputs.cache
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.AssemblyInfo.cs
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.csproj.CoreCompileInputs.cache
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\refint\WMS.WF.Domain.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\WMS.WF.Domain.pdb
+D:\2024\Working\WMS\src\Modules\WMS.WF.Domain\obj\Debug\net8.0\ref\WMS.WF.Domain.dll

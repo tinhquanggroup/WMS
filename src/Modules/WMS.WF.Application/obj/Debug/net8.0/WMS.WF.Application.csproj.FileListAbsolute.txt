@@ -1,0 +1,15 @@
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.csproj.AssemblyReference.cache
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.AssemblyInfoInputs.cache
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.AssemblyInfo.cs
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.csproj.CoreCompileInputs.cache
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\bin\Debug\net8.0\WMS.WF.Application.deps.json
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\bin\Debug\net8.0\WMS.WF.Application.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\bin\Debug\net8.0\WMS.WF.Application.pdb
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\bin\Debug\net8.0\WMS.WF.Infrastructure.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\bin\Debug\net8.0\WMS.WF.Infrastructure.pdb
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.A.352B101C.Up2Date
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\refint\WMS.WF.Application.dll
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\WMS.WF.Application.pdb
+D:\2024\Working\WMS\src\Modules\WMS.WF.Application\obj\Debug\net8.0\ref\WMS.WF.Application.dll

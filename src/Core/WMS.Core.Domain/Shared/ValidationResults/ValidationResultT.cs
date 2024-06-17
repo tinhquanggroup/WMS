@@ -1,0 +1,15 @@
+﻿using WMS.Core.Domain.Shared.Errors;
+using WMS.Core.Domain.Shared.Results;
+
+namespace WMS.Core.Domain.Shared.ValidationResults;
+
+public sealed class ValidationResult<TValue> : Result<TValue>, IValidationResult
+{
+    private ValidationResult(Error[] errors)
+        : base(default, false, IValidationResult.ValidationError) =>
+        Errors = errors;
+
+    public Error[] Errors { get; }
+
+    public static ValidationResult<TValue> WithErrors(Error[] errors) => new(errors);
+}
